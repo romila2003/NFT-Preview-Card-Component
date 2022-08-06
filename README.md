@@ -35,7 +35,7 @@ This is a solution to the [Single price grid Component challenge on Frontend Men
 
 ### Links
 
- - Source code: [https://github.com/romila2003/NFT-Preview-Card-Component]https://github.com/romila2003/NFT-Preview-Card-Component)
+ - Source code: [https://github.com/romila2003/NFT-Preview-Card-Component](https://github.com/romila2003/NFT-Preview-Card-Component)
  - Live website: [https://romila-nft-preview-card-component.netlify.app/](https://romila-nft-preview-card-component.netlify.app/)
 
 ## My process
