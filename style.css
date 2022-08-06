@@ -37,6 +37,10 @@ body {
     border-radius: 0.5em;
 }
 
+h1 a {
+    color: var(--white);
+}
+
 button {
     border: none;
     border-radius: 0.6em;
