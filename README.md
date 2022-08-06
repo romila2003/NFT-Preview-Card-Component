@@ -26,17 +26,17 @@ This is a solution to the [Single price grid Component challenge on Frontend Men
 
 # Mobile Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/NFT-Preview-Card-Component/blob/main/Mobile%20preview.PNG)
 
 # Desktop Preview 
 
-![screenshot]()
+![screenshot](https://github.com/romila2003/NFT-Preview-Card-Component/blob/main/Desktop%20preview.PNG)
 
 
 ### Links
 
  - Source code: [https://github.com/romila2003/NFT-Preview-Card-Component]https://github.com/romila2003/NFT-Preview-Card-Component)
- - Live website: []()
+ - Live website: [https://romila-nft-preview-card-component.netlify.app/](https://romila-nft-preview-card-component.netlify.app/)
 
 ## My process
 
